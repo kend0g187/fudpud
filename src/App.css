@@ -37,7 +37,7 @@ nav h1 {
 }
 
 .board {
-  width: 450px;
+  width: 350px;
   height: 550px;
   border: 1px solid black;
   display: flex;
@@ -79,7 +79,7 @@ nav h1 {
 .keyboard {
   width: 700px;
   height: 300px;
-  margin-top: 60px;
+  margin-top: 20px;
 }
 
 .line1 {
